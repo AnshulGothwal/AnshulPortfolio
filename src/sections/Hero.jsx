@@ -185,7 +185,7 @@ function Hero() {
 
           <div className="relative mt-auto text-center">
             <p className="text-xs font-medium uppercase tracking-[0.2em] text-slate-200">
-              Currently focused on
+              Open to work
             </p>
 
           <span className="bg-gradient-to-r from-violet-300 via-fuchsia-200 to-sky-200 bg-clip-text text-transparent mt-2 text-xl font-semibold tracking-tight sm:text-2xl">
